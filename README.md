@@ -4,7 +4,7 @@ This is a readme file to discuss myself a little bit and brush up on my GitHub a
 # Hello there!
 Welcome to the readme file that tells you about me.
 ## GETTING STARTED WITH ALXD3X
-I alxd3x am better known as Alex DePaul. I'm a recent graduate with a degree in communications. I'd like to become a technical writer, a profession which may also be referred to as a documentation specialist, an information developer, or simply super awesome README creator.
+I alxd3x am better known as Alex DePaul. I'm a recent graduate with a degree in communications. I'd like to become a technical writer, a profession which may also be referred to as a documentation specialist, an information developer, or help guide extraordinaire.
 ## FEATURES
 Coding in XML, HTML, and CSS are my strong suits. But I can also code in JSON and am familiar with a few commands in Python.
 ## INSTALLATION OF ALXD3x
